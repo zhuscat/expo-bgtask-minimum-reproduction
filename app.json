@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bgtask-demo-v2",
+    "slug": "bgtask-demo-v2",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-asset",
+      "expo-background-task"
+    ]
+  }
+}
