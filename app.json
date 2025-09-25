@@ -6,6 +6,12 @@
     "plugins": [
       "expo-asset",
       "expo-background-task"
-    ]
+    ],
+    "android": {
+      "package": "com.bgtaskdemov2"
+    },
+    "ios": {
+      "bundleIdentifier": "com.bgtaskdemov2"
+    }
   }
 }
